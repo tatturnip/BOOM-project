@@ -1,2 +1,6 @@
 # BOOM-project
-The goal of this project is to allow current and former students to leave testimonials that prospective students can read
+Stretch Goals:
+
+- As a potential buyer, I want to be able to purchase a product.
+- As a buyer, I want to be able to view my purchase history.
+- As a seller, I want to be able to view my sales history.
